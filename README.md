@@ -34,3 +34,7 @@ only using 7 multiplications (one for each Mk) instead of 8. We may now express 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/e71779a8ecc64f3e1268485cf389a05cdd3e6bf8)
 
 We iterate this division process n times (recursively) until the submatrices degenerate into numbers (elements of the ring R). The resulting product will be padded with zeroes just like A and B, and should be stripped of the corresponding rows and columns.
+
+
+#### Note: This code of Strassen Matrix Multiplication can only be used freely for Academic Purposes after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar. 
+#### Email_id: mr.ravin_kumar@hotmail.com .
