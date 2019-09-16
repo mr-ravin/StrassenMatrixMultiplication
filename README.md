@@ -1,10 +1,9 @@
 # Strassen Matrix Multiplication
+### for N x N matrices in C programming language
 
 This repository includes source code for strasssen matrix multiplication in C programming language for n x n matrices.
 
 #### Code Developer: [Ravin Kumar](https://mr-ravin.github.io) 
-
-### for N x N matrices in C programming language
 
 NOTE: this textual description of Strassen Matrix Multiplication is taken from [wikipedia](https://en.wikipedia.org/wiki/Strassen_algorithm)
 
