@@ -37,4 +37,4 @@ only using 7 multiplications (one for each Mk) instead of 8. We may now express 
 
 We iterate this division process n times (recursively) until the submatrices degenerate into numbers (elements of the ring R). The resulting product will be padded with zeroes just like A and B, and should be stripped of the corresponding rows and columns.
 
-##### Note: This work can be used freely for individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
+##### Note: This work can be used freely for individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the programmer/code developer.
